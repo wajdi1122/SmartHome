@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "592150571090",
+    "project_id": "smarthome-ec38a",
+    "storage_bucket": "smarthome-ec38a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:592150571090:android:a6cef5d2be6573ec5e978b",
+        "android_client_info": {
+          "package_name": "com.example.smarthome"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPbPicxWVqlAnslVAWanPPxHoEqQJlggU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
